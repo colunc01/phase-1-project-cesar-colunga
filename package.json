@@ -1,217 +1,291 @@
 {
-    "message": {
-        "affenpinscher": [],
-        "african": [],
-        "airedale": [],
-        "akita": [],
-        "appenzeller": [],
-        "australian": [
-            "shepherd"
-        ],
-        "basenji": [],
-        "beagle": [],
-        "bluetick": [],
-        "borzoi": [],
-        "bouvier": [],
-        "boxer": [],
-        "brabancon": [],
-        "briard": [],
-        "buhund": [
-            "norwegian"
-        ],
-        "bulldog": [
-            "boston",
-            "english",
-            "french"
-        ],
-        "bullterrier": [
-            "staffordshire"
-        ],
-        "cattledog": [
-            "australian"
-        ],
-        "chihuahua": [],
-        "chow": [],
-        "clumber": [],
-        "cockapoo": [],
-        "collie": [
-            "border"
-        ],
-        "coonhound": [],
-        "corgi": [
-            "cardigan"
-        ],
-        "cotondetulear": [],
-        "dachshund": [],
-        "dalmatian": [],
-        "dane": [
-            "great"
-        ],
-        "deerhound": [
-            "scottish"
-        ],
-        "dhole": [],
-        "dingo": [],
-        "doberman": [],
-        "elkhound": [
-            "norwegian"
-        ],
-        "entlebucher": [],
-        "eskimo": [],
-        "finnish": [
-            "lapphund"
-        ],
-        "frise": [
-            "bichon"
-        ],
-        "germanshepherd": [],
-        "greyhound": [
-            "italian"
-        ],
-        "groenendael": [],
-        "havanese": [],
-        "hound": [
-            "afghan",
-            "basset",
-            "blood",
-            "english",
-            "ibizan",
-            "plott",
-            "walker"
-        ],
-        "husky": [],
-        "keeshond": [],
-        "kelpie": [],
-        "komondor": [],
-        "kuvasz": [],
-        "labradoodle": [],
-        "labrador": [],
-        "leonberg": [],
-        "lhasa": [],
-        "malamute": [],
-        "malinois": [],
-        "maltese": [],
-        "mastiff": [
-            "bull",
-            "english",
-            "tibetan"
-        ],
-        "mexicanhairless": [],
-        "mix": [],
-        "mountain": [
-            "bernese",
-            "swiss"
-        ],
-        "newfoundland": [],
-        "otterhound": [],
-        "ovcharka": [
-            "caucasian"
-        ],
-        "papillon": [],
-        "pekinese": [],
-        "pembroke": [],
-        "pinscher": [
-            "miniature"
-        ],
-        "pitbull": [],
-        "pointer": [
-            "german",
-            "germanlonghair"
-        ],
-        "pomeranian": [],
-        "poodle": [
-            "medium",
-            "miniature",
-            "standard",
-            "toy"
-        ],
-        "pug": [],
-        "puggle": [],
-        "pyrenees": [],
-        "redbone": [],
-        "retriever": [
-            "chesapeake",
-            "curly",
-            "flatcoated",
-            "golden"
-        ],
-        "ridgeback": [
-            "rhodesian"
-        ],
-        "rottweiler": [],
-        "saluki": [],
-        "samoyed": [],
-        "schipperke": [],
-        "schnauzer": [
-            "giant",
-            "miniature"
-        ],
-        "segugio": [
-            "italian"
-        ],
-        "setter": [
-            "english",
-            "gordon",
-            "irish"
-        ],
-        "sharpei": [],
-        "sheepdog": [
-            "english",
-            "shetland"
-        ],
-        "shiba": [],
-        "shihtzu": [],
-        "spaniel": [
-            "blenheim",
-            "brittany",
-            "cocker",
-            "irish",
-            "japanese",
-            "sussex",
-            "welsh"
-        ],
-        "spitz": [
-            "japanese"
-        ],
-        "springer": [
-            "english"
-        ],
-        "stbernard": [],
-        "terrier": [
-            "american",
-            "australian",
-            "bedlington",
-            "border",
-            "cairn",
-            "dandie",
-            "fox",
-            "irish",
-            "kerryblue",
-            "lakeland",
-            "norfolk",
-            "norwich",
-            "patterdale",
-            "russell",
-            "scottish",
-            "sealyham",
-            "silky",
-            "tibetan",
-            "toy",
-            "welsh",
-            "westhighland",
-            "wheaten",
-            "yorkshire"
-        ],
-        "tervuren": [],
-        "vizsla": [],
-        "waterdog": [
-            "spanish"
-        ],
-        "weimaraner": [],
-        "whippet": [],
-        "wolfhound": [
-            "irish"
-        ]
-    },
-    "status": "success"
+    "albums": [
+        {
+            "title": "The College Dropout",
+            "releaseYear": 2004,
+            "releaseDate": "February 10, 2004",
+            "tracks": [
+                {
+                    "trackNumber": 1,
+                    "title": "Intro",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "And all my people that's drug dealin' just to get by",
+                        "chorus": "You know what this is",
+                        "verse2": "Man, if you don't stop us now...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Evidence"],
+                    "features": []
+                    },
+                    {
+                    "trackNumber": 2,
+                    "title": "We Don't Care",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "And all my people that's drug dealin' just to get by",
+                        "chorus": "You know what this is",
+                        "verse2": "Man, if you don't stop us now...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Evidence"],
+                    "features": []
+                },
+                {
+                    "trackNumber": 3,
+                    "title": "Graduation Day",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "And all my people that's drug dealin' just to get by",
+                        "chorus": "You know what this is",
+                        "verse2": "Man, if you don't stop us now...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Evidence"],
+                    "features": []
+                },
+                {
+                    "trackNumber": 4,
+                    "title": "All Falls Down",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 5,
+                    "title": "I'll Fly Away",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 6,
+                    "title": "Soaceship",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Consequence", "GLC"]
+                },
+                {
+                    "trackNumber": 7,
+                    "title": "Jesus Walks",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 8,
+                    "title": "Never Let Me Down",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Jay-Z", "J. Ivy"]
+                },
+                {
+                    "trackNumber": 9,
+                    "title": "Get Em High",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Common", "Talib Kweli"]
+                },
+                {
+                    "trackNumber": 10,
+                    "title": "Workout Plan",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 11,
+                    "title": "The New Workout Plan",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 12,
+                    "title": "Slow Jamz",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Twista", "Jamie Foxx"]
+                },
+                {
+                    "trackNumber": 13,
+                    "title": "Breathe In Breathe Out",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Ludacris"]
+                },
+                {
+                    "trackNumber": 14,
+                    "title": "School Spirit (Skit 1)",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 15,
+                    "title": "School Spirit",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 16,
+                    "title": "School Spirit (Skit 2)",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 17,
+                    "title": "Lil' Jimmy (Skit)",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 18,
+                    "title": "Two Words",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["The Boys Choir of Harlem", "Freeway", "Mos Def"]
+                },
+                {
+                    "trackNumber": 19,
+                    "title": "Through the Wire",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 20,
+                    "title": "Family Business",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 21,
+                    "title": "Last Call",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["Syleena Johnson"]
+                },
+                {
+                    "trackNumber": 22,
+                    "title": "Heavy Hitters",
+                    "songwriters": ["Kanye West"],
+                    "lyrics": {
+                        "verse1": "Man, I promise, she's so self-conscious",
+                        "chorus": "She has no idea what she's doing...",
+                        // ... more sections
+                    },
+                    "producers": ["Kanye West", "Damon Dash"],
+                    "features": ["GLC"]
+                }   
+            ]
+        },
+        {
+            "title": "Late Registration",
+            "releaseYear": 2005,
+            "releaseDate": "Look it up",
+            "tracks": [
+                "Heard 'Em Say",
+                "Touch the Sky",
+                "Gold Digger",
+                "Drive Slow",
+                // ... more tracks
+            ]
+        },
+        // More Albums
+    ]
 }
