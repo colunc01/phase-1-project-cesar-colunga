@@ -9,24 +9,85 @@
                     "trackNumber": 1,
                     "title": "Intro",
                     "songwriters": ["Kanye West"],
+                    "sample": "",
                     "lyrics": {
-                        "verse1": "And all my people that's drug dealin' just to get by",
-                        "chorus": "You know what this is",
-                        "verse2": "Man, if you don't stop us now...",
-                        // ... more sections
+                        "verse1": [
+                            "[DeRay Davis]",
+                            "Kanye, can I talk to you for a minute?",
+                            "Me and the other faculty members was wonderin' Could you do a lil' som—",
+                            "Somethin' beautiful, somethin' that the kids is gon' love when they hear it",
+                            "That's gon' make them start jumpin' up and down, and sharin' candy and stuff",
+                            "Think you could probably do somethin', for the kids, for graduation to sing?"
+                        ]
                     },
-                    "producers": ["Kanye West", "Evidence"],
-                    "features": []
+                    "producers": ["Kanye West"],
+                    "features": ["DeRay Davis"]
                     },
                     {
                     "trackNumber": 2,
                     "title": "We Don't Care",
                     "songwriters": ["Kanye West"],
+                    "sample":"I Just Wanna Stop (1979) by The Jimmy Castor Bunch",
                     "lyrics": {
-                        "verse1": "And all my people that's drug dealin' just to get by",
-                        "chorus": "You know what this is",
-                        "verse2": "Man, if you don't stop us now...",
-                        // ... more sections
+                        "intro": [
+                            "[Kanye West]",
+                            "Oh, yeah",
+                            "I got the perfect song for the kids to sing",
+                            "And all my people that's—"
+                        ],
+                        "chorus": [
+                            "[Kanye West]",
+                            "To all my people that's drug dealin' just to get by",
+                            "Stack your money till it gets sky high",
+                            "We wasn't s'posed to make it past twenty-five",
+                            "Joke's on you, we still alive",
+                            "Throw your hands up in the sky and say",
+                            "We don't care what people say",
+                            "(Yeah, yeah, yeah, uh)"
+                        ],
+                        "verse1": [
+                            "[Kanye West]",
+                            "If this is your first time hearin' this",
+                            "You are about to experience somethin' so cold, man",
+                            "We never had nothin' handed, took nothin' for granted",
+                            "Took nothin' from no man, man, I'm my own man",
+                            "But as a shorty, I looked up to the dope man",
+                            "Only adult man I knew that wasn't broke, man",
+                            "Flicking Starter coats, man—man, you don't know, man",
+                            "We don't care what people say",
+                            "This is for my n**** outside all winter",
+                            "'Cause this summer, they ain't finna say, ",
+                            "Next summer, I'm finna...",
+                            "Sittin' in the hood like community colleges",
+                            "This dope money here is Lil' Trey's scholarship",
+                            "'Cause ain't no tuition for having no ambition",
+                            "And ain't no loans for sittin' your ass at home",
+                            "So we forced to sell crack, rap, and get a job",
+                            "You gotta do somethin', man, your ass is grown",
+                            "[Chorus 1X]"
+                        ],
+                        "verse2": [
+                            "[Kanye West]",
+                            "This second verse is for my dogs working nine to five that still hustle",
+                            "'Cause a n**** can't shine off $6.55",
+                            "And everybody sellin' makeup, Jacob's",
+                            "And bootlegged tapes just to get they cake up",
+                            "We put shit on layaway, then come back",
+                            "We claim other people kids on our income tax",
+                            "We take that money, cop work, then push packs to get paid",
+                            "And we don't care what people say",
+                            "Mama say she wanna move South",
+                            "Scratching lottery tickets, eyes on a new house",
+                            "'Round the same time, Doe ran up in dude house",
+                            "Couldn't get a job",
+                            "So since he couldn't get work, he figured he'd take work",
+                            "The drug game bulimic, it's hard to get weight",
+                            "So n****s' money is homo, it's hard to get straight",
+                            "But we gon' keep bakin' 'til the day we get cake",
+                            "And we don't care what people say, my n****s—",
+                            "[Chorus 1X]"
+
+                        ]
                     },
                     "producers": ["Kanye West", "Evidence"],
                     "features": []
@@ -35,23 +96,97 @@
                     "trackNumber": 3,
                     "title": "Graduation Day",
                     "songwriters": ["Kanye West"],
+                    "sample": "Pomp and Circumstance - March No 1 (1901) by Edward Elgar",
                     "lyrics": {
-                        "verse1": "And all my people that's drug dealin' just to get by",
-                        "chorus": "You know what this is",
-                        "verse2": "Man, if you don't stop us now...",
-                        // ... more sections
+                        "intro":[
+                            "[DeRay Davis]",
+                            "What in the fuck was that, Kanye?!", 
+                            "I told you to do some shit for the kids!",  
+                            "You can give me your muthafuckin' graduation ticket right now!",  
+                            "You give me this muthafuckin' robe before you catch some senioritis!",  
+                            "You will not walk 'cross that stage!",  
+                            "You won’t slide across that stage!",  
+                            "Motherfucker can’t pull you 'cross that muthafuckin' stage, Kanye!",  
+                            "Who told you? See, I told you to do somethin' uplifting!",  
+                            "I’m tryna get you out here with these white people and this how you're gon' do me?",  
+                            "You know what, you's a n****. And I don’t mean that in no nice way.",  
+                            "lil' kids sing about the shit—y'know, the joke's on you.",  
+                            "You throw your m**** hands in the air and wave goodbye to every-****-body!",  
+                            "'Cause you getting the **** out of this campus! What the f**k you gon' do now?"
+                        ],
+                        "verse1": [
+                            "[John Legend]",
+                            "I'm no longer confused, but don't tell anybody",
+                            "I'm about to break the rules, but don't tell anybody",
+                            "I got something better than school, so don't tell anybody",
+                            "My momma would kill me, so don't tell anybody",
+                            "She wants me to get a good ass job, just like everybody",
+                            "She ain't walked in my shoes, I'm just not everybody"
+                        ]
                     },
                     "producers": ["Kanye West", "Evidence"],
-                    "features": []
+                    "features": ["DeRay Davis", "John Legend"]
                 },
                 {
                     "trackNumber": 4,
                     "title": "All Falls Down",
                     "songwriters": ["Kanye West"],
+                    "sample": "Mystery of Iniquity (2002) by Lauryn Hill",
                     "lyrics": {
-                        "verse1": "Man, I promise, she's so self-conscious",
-                        "chorus": "She has no idea what she's doing...",
-                        // ... more sections
+                        "intro": [
+                            "[Syleena Johnson & Kanye West",
+                            "Oh, when it all, it all falls down",
+                            "Yeah, this the real one, baby",
+                            "I'm tellin' you all, it all falls down",
+                            "Uh, Chi-Town, stand up!",
+                            "Oh, when it all, it all falls down",
+                            "Southside, Southside",
+                            "We gon' set this party off right",
+                            "I'm tellin' you all, it all falls down",
+                            "Westside, Westside",
+                            "We gon' set this party off right",
+                            "Oh, when it all falls down"
+                        ],
+                        "verse1": [
+                            "[Kanye West]",
+                            "Man, I promise, she's so self-conscious",
+                            "She has no idea what she doin' in college",
+                            "That major that she majored in don't make no money",
+                            "But she won't drop out, her parents'll look at her funny",
+                            "Now, tell me that ain't insecurr",
+                            "The concept of school seems so securr",
+                            "Sophomore, three yurrs, ain't picked a carurr",
+                            "She like, 'Fuck it, I'll just stay down hurr and do hair'",
+                            "'Cause that's enough money to buy her a few pairs",
+                            "Of new Airs, 'cause her baby daddy don't really care",
+                            "She's so precious with the peer pressure",
+                            "Couldn't afford a car, so she named her daughter Alexis",
+                            "She had hair so long that it looked like weave",
+                            "Then she cut it all off, now she look like Eve",
+                            "And she be dealin' with some issues that you can't believe",
+                            "Single black female addicted to retail, and well",
+                            "[Chorus 1X]"
+                        ],
+                        "verse2": [
+                            "[Kanye West]",
+                            "Man, I promise, I'm so self-conscious",
+                            "That's why you always see me with at least one of my watches",
+                            "Rollies and Pashas done drove me crazy",
+                            "I can't even pronounce nothing, pass that Ver-say-see!",
+                            "Then I spent four hundred bucks on this",
+                            "Just to be like, 'N****, you ain't up on this'",
+                            "And I can't even go to the grocery store",
+                            "Without some Ones that's clean and a shirt with a team",
+                            "It seem we livin' the American Dream",
+                            "But the people highest up got the lowest self-esteem",
+                            "The prettiest people do the ugliest things",
+                            "For the road to riches and diamond rings",
+                            "We shine because they hate us, floss 'cause they degrade us",
+                            "We tryna buy back our 40 acres",
+                            "And for that paper, look how low we'll stoop",
+                            "Even if you in a Benz, you still a n**** in a coupe",
+                            "[Chorus 1X]"
+                        ]
                     },
                     "producers": ["Kanye West", "Damon Dash"],
                     "features": ["Syleena Johnson"]
@@ -70,8 +205,9 @@
                 },
                 {
                     "trackNumber": 6,
-                    "title": "Soaceship",
+                    "title": "Spaceship",
                     "songwriters": ["Kanye West"],
+                    "sample":"Distant Lover (1979) by Marvin Gaye",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -84,6 +220,10 @@
                     "trackNumber": 7,
                     "title": "Jesus Walks",
                     "songwriters": ["Kanye West"],
+                    "sample": [
+                        "Walk With Me (1997) by The Arc Choir",
+                        "(Don't Worry) If There's a Below, We're All Going to Go (1970) by Curtis Mayfield"
+                    ],
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -96,6 +236,7 @@
                     "trackNumber": 8,
                     "title": "Never Let Me Down",
                     "songwriters": ["Kanye West"],
+                    "sample": "Maybe It's the Power of Love (1980) by Blackjack",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -144,6 +285,7 @@
                     "trackNumber": 12,
                     "title": "Slow Jamz",
                     "songwriters": ["Kanye West"],
+                    "sample": "A House is Not a Home (1981) by Luther Vandross",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -168,6 +310,7 @@
                     "trackNumber": 14,
                     "title": "School Spirit (Skit 1)",
                     "songwriters": ["Kanye West"],
+                    "sample": "Spirit in the Dark (1970) by Aretha Franklin",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -216,6 +359,7 @@
                     "trackNumber": 18,
                     "title": "Two Words",
                     "songwriters": ["Kanye West"],
+                    "sample": "Peace and Love (Amani Na Mapenzi): Movevement IV (Encounter) (1970) by Mandrill",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -228,18 +372,20 @@
                     "trackNumber": 19,
                     "title": "Through the Wire",
                     "songwriters": ["Kanye West"],
+                    "sample": "Through the Fire (1984) by Chaka Khan",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
                         // ... more sections
                     },
                     "producers": ["Kanye West", "Damon Dash"],
-                    "features": ["Syleena Johnson"]
+                    "features": []
                 },
                 {
                     "trackNumber": 20,
                     "title": "Family Business",
                     "songwriters": ["Kanye West"],
+                    "sample": "Fonky Thang, Diamon' Rang (1972) by The Dells",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
@@ -252,6 +398,7 @@
                     "trackNumber": 21,
                     "title": "Last Call",
                     "songwriters": ["Kanye West"],
+                    "sample": "Mr. Rockerfeller (1976) by Bette Midler",
                     "lyrics": {
                         "verse1": "Man, I promise, she's so self-conscious",
                         "chorus": "She has no idea what she's doing...",
