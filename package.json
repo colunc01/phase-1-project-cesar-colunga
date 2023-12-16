@@ -1974,15 +1974,321 @@
         {
             "title": "Late Registration",
             "releaseYear": 2005,
-            "releaseDate": "Look it up",
+            "releaseDate": "August 30, 2005",
             "tracks": [
-                "Heard 'Em Say",
-                "Touch the Sky",
-                "Gold Digger",
-                "Drive Slow",
-                // ... more tracks
+                {
+                    "trackNumber":1,
+                    "title": "Wake Up Mr. West",
+                    "songwriters": ["Michael Masser", "Gerry Goffin"],
+                    "length": "0:41",
+                    "sample":["Someone That I Used to Love (1980) by Natalie Cole"],
+                    "lyrics": {
+                        [
+
+                        ]
+                    },
+                    "producers":[],
+                    "features": []
+
+                },
+                {
+                    "trackNumber":2,
+                    "title":"Heard 'Em Say",
+                    "songwriters":["Kanye West", "Adam Levine", "Michael Masser", "Gerry Goofin"],
+                    "length":"3:23",
+                    "sample":["Someone That I Used to Love (1980) by Natalie Cole"],
+                    "lyrics": 
+                    {
+                        [
+
+                        ]
+                    },
+                    "producers":["Kanye West", "Jon Brion"],
+                    "features":["Adam Levine"]
+                },
+                {
+                    "trackNumber":3,
+                    "title":"Touch the Sky",
+                    "songwriters":["Kanye West", "Justin Smith", "Wasalu Jaco", "Curtis Mayfield"],
+                    "length":"3:57",
+                    "sample":["Move On Up (1970) by Curtis Mayfield"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Just Blaze"],
+                    "features":["Lupe Fiasco"]
+                },
+                {
+                    "trackNumber":4,
+                    "title":"Gold Digger",
+                    "songwriters":["Kanye West", "Ray Charles", "Renard Richard West", "Brion"],
+                    "length":"3:28",
+                    "sample":["I Got a Woman (1954) by Ray Charles"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":["Jamie Foxx"]
+                },
+                {
+                    "trackNumber":5,
+                    "title":"Skit No. 1",
+                    "songwriters":["Kanye West"],
+                    "length":"0:33",
+                    "sample":"none",
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":6,
+                    "title":"Drive Slow",
+                    "songwriters":["Kanye West", "Paul Slayton", "Leonard Harris"],
+                    "length":"4:32",
+                    "sample":["Wildflower (1972) by Hank Crawford"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":["Paul Wall", "GLC"]
+                },
+                {
+                    "trackNumber":7,
+                    "title":"My Way Home",
+                    "songwriters":["Kanye West", "Lonnie Lynn", "Gil Scott-Heron"],
+                    "length":"1:43",
+                    "sample":["Home Is Where The Hatred Is (1971) by Gil Scott-Heron"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":["Common"]
+                },
+                {
+                    "trackNumber":8,
+                    "title":"Crack Music",
+                    "songwriters":["Kanye West", "Willard Meeks", "Jayceon Taylor"],
+                    "length":"4:31",
+                    "sample":
+                        [
+                            "It's Your Thing (1969) by Cold Grits",
+                            "Since You Came In My Life () by New York Community Choir"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":["The Game"]
+                },
+                {
+                    "trackNumber":9,
+                    "title":"Roses",
+                    "songwriters":["Kanye West", "Bill Withers"],
+                    "length":"4:05",
+                    "sample":["Rosie (1977) by Bill Withers"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":10,
+                    "title":"Bring Me Down",
+                    "songwriters":["Kanye West", "Anthony Williams"],
+                    "length":"3:18",
+                    "sample":["My Life Is Loving You (1976) by Rose Banks"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":["Brandy"]
+                },
+                {
+                    "trackNumber":11,
+                    "title":"Addiction",
+                    "songwriters":["Kanye West", "Richard Rodgers", "Lorenz Hart"],
+                    "length":"4:27",
+                    "sample":["My Funny Valentine (1937) by Etta James"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":12,
+                    "title":"Skit No. 2",
+                    "songwriters":["Kanye West"],
+                    "length":"0:31",
+                    "sample":"none",
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":13,
+                    "title":"Diamonds from Sierra Leone (Remix)",
+                    "songwriters":["Kanye West", "Shawn Carter", "Devon Harris", "John Barry", "Don Black"],
+                    "length":"3:53",
+                    "sample":["Diamonds Are Forever (1971) by Shirley Bassey"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion", "Devo Springsteen"],
+                    "features":["Jay-Z"]
+                },
+                {
+                    "trackNumber":14,
+                    "title":"We Major",
+                    "songwriters":["Kanye West", "Warren Trotter", "Nasir Jones", "Williams", "Warryn Campbell", "Russell Simmons", "Larry Smith", "Maureen Reid"],
+                    "length":"7:28",
+                    "sample":["Action (1982) by Orange Crush"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion", "Baby Dubb"],
+                    "features":["Nas", "Really Doe"]
+                },
+                {
+                    "trackNumber":15,
+                    "title":"Skit No. 3",
+                    "songwriters":["Kanye West"],
+                    "length":"0:24",
+                    "sample":"none",
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":16,
+                    "title":"Hey Mama",
+                    "songwriters":["Kanye West", "Donal Leace"],
+                    "length":"5:05",
+                    "sample":["Today Won't Come Again (1972) by Donal Leace"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":17,
+                    "title":"Celebration",
+                    "songwriters":["Kanye West"],
+                    "length":"3:18",
+                    "sample":["Heavenly Dream (1979) by The Kay-Gees"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Brion"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":18,
+                    "title":"Skit No. 4",
+                    "songwriters":["Kanye West"],
+                    "length":"1:18",
+                    "sample":"none",
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":19,
+                    "title":"Gone",
+                    "songwriters":["Kanye West", "Dexter Mills", "Cameron Giles", "Chuck Willis"],
+                    "length":"5:33",
+                    "sample":["It's Too Late (1965) by Otis Redding"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":["Consequence", "Cam'ron"]
+                },
+                {
+                    "trackNumber":20,
+                    "title":"Diamonds from Sierra Leone (Bonus Track)",
+                    "songwriters":["Kanye West", "Dexter Mills", "Cameron Giles", "Chuck Willis"],
+                    "length":"3:58",
+                    "sample":["Diamonds Are Forever (1971) by Shirley Bassey"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Devo Sringsteen", "Brion"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":21,
+                    "title":"Late (hidden track)",
+                    "songwriters":["Kanye West", "George Kerr", "Sylvia Robinson"],
+                    "length":"3:50",
+                    "sample":["I'll Erase Your Pain Away (1970) by The Whatnauts"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                }
             ]
         },
-        // More Albums
+        {
+            "title": "Graduation",
+            "releaseYear": 2007,
+            "releaseDate": "September 11, 2007",
+            "tracks": [
+
+            ]
+        },
+        {
+            "title": "808s & Heartbreak",
+            "releaseYear": 2008,
+            "releaseDate": "November 24, 2008",
+            "tracks": [
+
+            ]
+        },
+        {
+            "title": "My Beautiful Dark Twisted Fantasy",
+            "releaseYear": 2010,
+            "releaseDate": "November 22, 2010",
+            "tracks": [
+
+            ]
+        }
+    ],
+    "movies":
+    [
+
+    ],
+    "awards":[
+
     ]
+
 }
