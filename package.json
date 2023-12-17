@@ -2263,7 +2263,209 @@
             "releaseYear": 2007,
             "releaseDate": "September 11, 2007",
             "tracks": [
-
+                {
+                    "trackNumber":1,
+                    "title":"Good Morning",
+                    "songwriters":["Kanye West", "Elton John", "Bernie Taupin"],
+                    "length":"3:15",
+                    "sample":["Someone Saved My Life Tonight (1975) by Elton John"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":2,
+                    "title":"Champion",
+                    "songwriters":["Kanye West", "Anthony Williams", "Walter Becker", "Donald Fagen"],
+                    "length":"2:47",
+                    "sample":["Kid Charlemagne (1976) by Steely Dan"],
+                    "lyrics": {
+                    [
+                    ]
+                    },
+                    "producers":["Kanye West", "Brain Miller AKA AllDay"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":3,
+                    "title":"Stronger",
+                    "songwriters":["Kanye West", "Thomas Bangalter", "Guy-Manuel de Homem-Christo", "Edwin Birdsong"],
+                    "length":"5:12",
+                    "sample": [
+                        "Harder, Better, Faster Stronger (2001) by Daft Punk",
+                        "Cola Bottle Baby (1979) by Edwin Birdsong"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Mike Dean"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":4,
+                    "title":"I Wonder",
+                    "songwriters":["Kanye West", "Labi Siffre"],
+                    "length":"4:03",
+                    "sample":["My Song (1972) by Labi Siffre"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":5,
+                    "title":"Good Life",
+                    "songwriters":["Kanye West", "Faheem Najm", "Aldrin Davis", "John Stephens", "Quincy Jones", "James Ingram"],
+                    "length":"3:27",
+                    "sample":["P.Y.T. (Pretty Young Thing) (1982) by Michael Jackson"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Mike Dean", "DJ Toomp"],
+                    "features":["T-Pain"]
+                },
+                {
+                    "trackNumber":6,
+                    "title":"Can't Tell Me Nothing",
+                    "songwriters":["Kanye West", "Connie Mitchell", "Davis"],
+                    "length":"4:31",
+                    "sample":["I Got Money (2006) by Young Jeezy Feat. T.I."],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "DJ Toomp"],
+                    "features":"none"
+                    },
+                    {
+                        "trackNumber":7,
+                        "title":"Barry Bonds",
+                        "songwriters":["Kanye West", "Dominick Lamb", "Dawyne Carter, Jr.", "Norman Lansberg", "John Ventura", "Leslie Weinstein", "Felix Pappalardi"],
+                        "length":"3:24",
+                        "sample":["Long Red (1972) by Mountain"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "Nottz"],
+                        "features":["Lil Wayne"]
+                    },
+                    {
+                        "trackNumber":8,
+                        "title":"Drunk and Hot Girls",
+                        "songwriters":["Kanye West", "Mike Dean"],
+                        "length":"5:13",
+                        "sample":["Sing Swan Song (1972) by Can"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "Jon Brion"],
+                        "features":["Mos Def"]
+                    },
+                    {
+                        "trackNumber":9,
+                        "title":"Flashing Lights",
+                        "songwriters":["Kanye West", "Eric Hudson"],
+                        "length":"3:57",
+                        "sample":["none"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "Eric Hudson"],
+                        "features":["Dwele"]
+                    },
+                    {
+                        "trackNumber":10,
+                        "title":"Everthing I Am",
+                        "songwriters":["Kanye West", "Christopher Martin", "Prince Phillip", "Mitchell", "Cartlon Ridenhour", "Eric Sadler", "Hank Shocklee", "George Clinton, Jr."],
+                        "length":"3:47",
+                        "sample":[
+                            "If We Can't Be Lovers (2004) by Prince Phillip Mitchell", 
+                            "Bring the Noise (1991) by Public Enemy" ],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West"],
+                        "features":["DJ Premiere"]
+                    },
+                    {
+                        "trackNumber":11,
+                        "title":"The Glory",
+                        "songwriters":["Kanye West", "Dante Smith", "Laura Nyro", "Landsberg", "Pappalardi", "Ventura", "Weinstein"],
+                        "length":"3:32",
+                        "sample":[
+                            "Save The Country (1969) by Laura Nyro", 
+                            "Long Red (1972) by Mountain" ],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "Gee Roberson", "Patrick Reynolds AKA Plain Pat"],
+                        "features":"none"
+                    },
+                    {
+                        "trackNumber":12,
+                        "title":"Homecoming",
+                        "songwriters":["Kanye West", "Chris Martin", "Warryn Campbell"],
+                        "length":"3:23",
+                        "sample":["none"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "Warryn Campbell AKA Baby Dubb"],
+                        "features":["Chris Martin"]
+                    },
+                    {
+                        "trackNumber":13,
+                        "title":"Big Brother",
+                        "songwriters":["Kanye West", "Davis"],
+                        "length":"4:47",
+                        "sample":["none"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["DJ Toomp"],
+                        "features":"none"
+                    },
+                    {
+                        "trackNumber":14,
+                        "title":"Good Night",
+                        "songwriters":["Kanye West", "Albert Daniels", "Jason T. Miller", "Arthur Reid", "Ewart Beckford", "William Maragh"],
+                        "length":"3:07",
+                        "sample":[
+                            "Nuff Man a Dead (1992) by Super Cat", 
+                            "Wake The Town (1974) by U-Roy"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "J. Miller", "Al Be Back"],
+                        "features":["Al Be Back", "Mos Def"]
+                    },
+                    {
+                        "trackNumber":15,
+                        "title":"I Will Need",
+                        "songwriters":["Kanye West"],
+                        "length":"6:45",
+                        "sample":["none"],
+                        "lyrics": {
+                            [
+                            ]
+                        },
+                        "producers":["Kanye West", "J. Miller", "Al Be Back"],
+                        "features":["Kid Cudi"]
+                    }
             ]
         },
         {
@@ -2271,7 +2473,162 @@
             "releaseYear": 2008,
             "releaseDate": "November 24, 2008",
             "tracks": [
-
+                {
+                    "trackNumber":1,
+                    "title":"Say You Will",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Jay Jenkins", "Malik Jones", "Benjamin Mclldowie", "Dexter Mills"],
+                    "length":"6:18",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":2,
+                    "title":"Welcome to Heartbreak",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Patrick Reynolds", "Scott Mescudi"],
+                    "length":"4:23",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker", "Plain Pat"],
+                    "features":["Kid Cudi"]
+                },
+                {
+                    "trackNumber":3,
+                    "title":"Heartless",
+                    "songwriters":["Kanye West", "Scott Mescudi", "Malik Jones", "Ernest Wilson"],
+                    "length":"3:31",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "No I.D."],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":4,
+                    "title":"Amazing",
+                    "songwriters":["Kanye West",  "Malik Jones", "Dexter Mills", "Jay Jenkins"],
+                    "length":"3:58",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker"],
+                    "features":["Young Jeezy"]
+                },
+                {
+                    "trackNumber":5,
+                    "title":"Love Lockdown",
+                    "songwriters":["Kanye West",  "Jeff Bhasker", "Jenny-Bea Englishman", "Malik Jones", "LaNeah Menzies"],
+                    "length":"4:30",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":6,
+                    "title":"Paranoid",
+                    "songwriters":["Kanye West",  "Jeff Bhasker", "Scott Mescudi", "Patrick Reynolds", "Dexter Mills"],
+                    "length":"4:38",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker", "Plain Pat"],
+                    "features":["Mr. Hudson"]
+                },
+                {
+                    "trackNumber":7,
+                    "title":"RoboCop",
+                    "songwriters":["Kanye West",  "Jeff Bhasker", "Scott Mescudi", "Patrick Doyle", "Jay Jenkins", "Malik Jones", "Dexter Mills", "Faheem Najm", "Jenny-Bea Englishman"],
+                    "length":"4:34",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":8,
+                    "title":"Street Lights",
+                    "songwriters":["Kanye West", "Jenny-Bea Englishman", "Benjamin Mclldowie", "Anthony Williams"],
+                    "length":"3:10",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Mr. Hudson"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":9,
+                    "title":"Bad News",
+                    "songwriters":["Kanye West", "George Bass"],
+                    "length":"3:59",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":10,
+                    "title":"See You In My Nightmares",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Ernest Wilson", "Dwayne Carter"],
+                    "length":"4:18",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "No I.D."],
+                    "features":["Lil Wayne"]
+                },
+                {
+                    "trackNumber":11,
+                    "title":"Coldest Winter",
+                    "songwriters":["Kanye West",  "Ernest Wilson", "Rolan Orzabal"],
+                    "length":"2:44",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "No I.D.", "Jeff Bhasker"],
+                    "features":["none"]
+                },
+                {
+                    "trackNumber":12,
+                    "title":"Pinocchio Story (Freestyle Live West from Singapore) (hidden track)",
+                    "songwriters":["Kanye West"],
+                    "length":"6:02",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West"],
+                    "features":"none"
+                }
             ]
         },
         {
@@ -2279,6 +2636,111 @@
             "releaseYear": 2010,
             "releaseDate": "November 22, 2010",
             "tracks": [
+                {
+                    "trackNumber":1,
+                    "title":"Dark Fantasy",
+                    "songwriters":["Kanye West", "Robert Diggs", "Ernest Wilson", "Jeff Bhasker", "Mike Dean", "Malik Jones", "Justin Vernon", "Onika Maraj", "Jon Anderson", "Mike Oldfield"],
+                    "length":"4:40",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "RZA", "No I.D.", "Jeff Bhasker", "Mike Dean"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":2,
+                    "title":"Gorgeous",
+                    "songwriters":["Kanye West", "Ernest Wilson", "Mike Dean", "No I.D.", "Malik Jones", "Che Smith", "Corey Woods", "Scott Mescudi", "Gene Clark", "Roger McGuinn"],
+                    "length":"5:57",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "No I.D.", "Mike Dean"],
+                    "features":["Kid Cudi", "Raekwon"]
+                },
+                {
+                    "trackNumber":3,
+                    "title":"Power",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Mike Dean", "Andwele Garner", "Ken Lewis", "Francois Bernheim", "Jean-Pierre Lang", "Boris Bergman", "Rober Fripp", "Michael Giles", "Greg Lake", "Ian McDonald", "Peter Sinfield"],
+                    "length":"4:52",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker", "Mike Dean"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":4,
+                    "title":"All of the Lights (Interlude)",
+                    "songwriters":["Kanye West", "Mike Dean"],
+                    "length":"1:02",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Mike Dean"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":5,
+                    "title":"All of the Lights",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Scott Mescudi", "Malik Jones", "Warren Trotter", "Stacy Ferguson"],
+                    "length":"4:59",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":6,
+                    "title":"Monster",
+                    "songwriters":["Kanye West", "Shawn Carter", "Patrick Reynolds", "Mike Dean", "William Roberts II", "Maraj", "Vernon", "Malik Jones", "Ben Bronfman", "Daniel Lynas", "Harley Wertheimer"],
+                    "length":"6:18",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "No I.D.", "Mike Dean"],
+                    "features":["Jay-Z", "Rick Ross", "Nicki Minaj", "Bon Iver"]
+                },
+                
+                {
+                    "trackNumber":10,
+                    "title":"Hell of a Life",
+                    "songwriters":["Kanye West", "Mike Caren", "Ernest Wilson", "Mike Dean", "Sylvester Stewart", "Tony Joe White", "Terence Butler", "Anthony Iommi", "John Osbourne", "William Ward"],
+                    "length":"5:27",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                        [
+                        ]
+                    },
+                    "producers":["Kanye West", "Mike Caren", "No I.D.", "Mike Dean"],
+                    "features":"none"
+                },
+                {
+                    "trackNumber":13,
+                    "title":"Who Will Survive in America",
+                    "songwriters":["Kanye West", "Jeff Bhasker", "Gil Scott-Heron","Edwin Bocage", "Alfred Scramuzza"],
+                    "length":"1:38",
+                    "sample":["RESEARCH"],
+                    "lyrics": {
+                    [
+                    ]
+                    },
+                    "producers":["Kanye West", "Jeff Bhasker"],
+                    "features":"none"
+                },
 
             ]
         }
