@@ -3,8 +3,11 @@ const albums = document.querySelectorAll('#albumList li');
 
 // Function to handle click on an album
 function handleAlbumClick(event) {
-  // Show an alert when an album is clicked
-  alert("I've been clicked!");
+  // Get the text content of the clicked album
+  const albumName = event.target.textContent;
+  
+  // Show an alert with the clicked album's name
+  alert(`Album clicked: ${albumName}`);
 }
 
 // Add click event listener to each album
