@@ -2,9 +2,10 @@
     "albums": [
         {
             "id":1,
-            "title": "The College Dropout",
-            "releaseYear": 2004,
-            "releaseDate": "February 10, 2004",
+            "albumTitle": "The College Dropout",
+            "month": "February",
+            "day": 10,
+            "year": 2004,
             "tracks": [
                 {
                     "trackNumber": 1,
@@ -1974,9 +1975,10 @@
         },
         {
             "id":2,
-            "title": "Late Registration",
-            "releaseYear": 2005,
-            "releaseDate": "August 30, 2005",
+            "albumTitle": "Late Registration",
+            "month":"August",
+            "day": 30,
+            "year": 2005,
             "tracks": [
                 {
                     "trackNumber":1,
@@ -3515,9 +3517,10 @@
         },
         {
             "id":3,
-            "title": "Graduation",
-            "releaseYear": 2007,
-            "releaseDate": "September 11, 2007",
+            "albumTitle": "Graduation",
+            "month":"September",
+            "day":11,
+            "year": 2007,
             "tracks": [
                 {
                     "trackNumber":1,
@@ -4691,9 +4694,10 @@
         },
         {
             "id":4,
-            "title": "808s & Heartbreak",
-            "releaseYear": 2008,
-            "releaseDate": "November 24, 2008",
+            "albumTitle": "808s & Heartbreak",
+            "month":"November",
+            "day": 24,
+            "year": 2008,
             "tracks": [
                 {
                     "trackNumber":1,
@@ -5475,9 +5479,10 @@
         },
         {
             "id":5,
-            "title": "My Beautiful Dark Twisted Fantasy",
-            "releaseYear": 2010,
-            "releaseDate": "November 22, 2010",
+            "albumTitle": "My Beautiful Dark Twisted Fantasy",
+            "month": "November",
+            "day": 22,
+            "year": 2010,
             "tracks": [
                 {
                     "trackNumber":1,
