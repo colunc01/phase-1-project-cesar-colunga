@@ -1,0 +1,27 @@
+{
+  "name": "phase-1-project-cesar-colunga",
+  "version": "1.0.0",
+  "description": "\"Project that will load Kanye West Albums and Lyrics\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colunc01/phase-1-project-cesar-colunga.git"
+  },
+  "keywords": [
+    "Kanye",
+    "West",
+    "albums",
+    "hiphop",
+    "midwest",
+    "chicago"
+  ],
+  "author": "Cesar Colunga",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/colunc01/phase-1-project-cesar-colunga/issues"
+  },
+  "homepage": "https://github.com/colunc01/phase-1-project-cesar-colunga#readme"
+}

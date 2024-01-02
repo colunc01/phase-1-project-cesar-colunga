@@ -7,7 +7,7 @@
             "day": 10,
             "year": 2004,
             "tracks": [
-                {
+                    {
                     "trackNumber": 1,
                     "title": "Intro",
                     "songwriters": ["Kanye West"],
