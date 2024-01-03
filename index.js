@@ -1,14 +1,41 @@
-console.log('hello');
+// console.log('hello');
 
-try {
-  console.log('inside try');
-  const res = fetch('http://localhost:3000/albums/')
-  console.log(res.status)
+// try {
+//   console.log('inside try');
+//   //const res = fetch('http://localhost:3000/albums/')
+//   //console.log(res.status)
+//   fetch("db.json")
+//   .then(response => response.json())
+//   .then(data => showInfo(data));
   
-} catch (error){
-  console.log('inside catch');
-  console.error(error)
-}
+// } catch (error){
+//   console.log('inside catch');
+//   console.error(error)
+// }
+
+// function showInfo(data){
+//   console.log(data.albumTitle);
+// }
+
+
+fetch('https://pokeapi.co/api/v2/pokemon/')
+  .then(response => {
+    if (!response.ok) {
+      console.log('in first if');
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => {
+    // Work with the data received from the API
+    console.log('inside then');
+    console.log(data);
+  })
+  .catch(error => {
+    // Handle errors
+    console.log('ERROR');
+    console.error('There was a problem with the fetch operation:', error);
+  });
 
 // .then(response => response.json())
 // .then(data => showInfo(data));
